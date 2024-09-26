@@ -7,7 +7,7 @@ the island by examining adjacent cells.
 """
 
 
-def island_perimeter(grid: List[List[int]]) -> int:
+def island_perimeter(grid):
     """
     Calculate the perimeter of the island in the grid.
 
