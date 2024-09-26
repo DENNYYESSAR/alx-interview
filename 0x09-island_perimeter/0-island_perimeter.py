@@ -6,8 +6,6 @@ water is represented by 0's. The function calculates the perimeter of
 the island by examining adjacent cells.
 """
 
-from typing import List
-
 
 def island_perimeter(grid: List[List[int]]) -> int:
     """
